@@ -1,4 +1,4 @@
-# System-Design-and-Analysis-Project
+# System-Analysis-and-Design-Project
 
 # Summary
 DriverPass is a client that wants a system created to improve driver education and testing services. They need a system where users can schedule driving lessons, take practice tests, and track their progress. The system combines object-oriented and process-oriented design to make it efficient and user-friendly.
